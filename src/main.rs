@@ -1,3 +1,3 @@
 fn main() {
-    Slef::run();
+    {{project_name}}::run();
 }
