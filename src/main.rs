@@ -1,3 +1,3 @@
 fn main() {
-    rusterator::run();
+    Slef::run();
 }
