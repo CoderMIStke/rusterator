@@ -1,3 +1,3 @@
 fn main() {
-    {{project_name}}::run();
+    {{project-name}}::run();
 }
